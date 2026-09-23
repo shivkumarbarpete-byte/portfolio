@@ -4,7 +4,7 @@ A modern and responsive personal portfolio website built with **React.js** and *
 
 ## 🚀 Live Demo
 
-**[View Portfolio Live](YOUR-LIVE-PORTFOLIO-URL)**
+**[View Portfolio Live](https://portfolio-rose-pi-13.vercel.app/)**
 
 ## 📌 About
 
@@ -98,8 +98,8 @@ npm run preview
 
 The portfolio is deployed using **Vercel**.
 
-**Vercel Project:**
-[Portfolio Deployment](https://vercel.com/shivkirar78-9727/portfolio/95ZEbHnKNLDUiPDojEAUZYWaVvW1)
+**Live Website:**
+https://portfolio-rose-pi-13.vercel.app/
 
 ## 👨‍💻 Developer
 
@@ -119,7 +119,7 @@ Interested in:
 
 * GitHub: **YOUR-GITHUB-PROFILE-LINK**
 * LinkedIn: **YOUR-LINKEDIN-PROFILE-LINK**
-* Portfolio: **YOUR-LIVE-PORTFOLIO-URL**
+* Portfolio: **https://portfolio-rose-pi-13.vercel.app/**
 
 ## 📜 License
 
