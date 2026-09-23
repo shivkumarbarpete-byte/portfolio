@@ -1,16 +1,126 @@
-# React + Vite
+# Personal Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern and responsive personal portfolio website built with **React.js** and **Vite** to showcase my skills, projects, education, and experience.
 
-Currently, two official plugins are available:
+## 🚀 Live Demo
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**[View Portfolio Live](YOUR-LIVE-PORTFOLIO-URL)**
 
-## React Compiler
+## 📌 About
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+This portfolio website represents my journey as an **MCA student and aspiring Software Developer**.
 
-## Expanding the ESLint configuration
+It highlights my technical skills, projects, education, and the technologies I am learning and working with.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## ✨ Features
+
+* Responsive portfolio design
+* Modern and clean user interface
+* About Me section
+* Skills and technologies
+* Projects showcase
+* Education details
+* Contact section
+* Smooth navigation
+* Mobile-friendly layout
+
+## 🛠️ Tech Stack
+
+* **React.js**
+* **Vite**
+* **JavaScript**
+* **HTML5**
+* **CSS3**
+* **Tailwind CSS**
+* **Git & GitHub**
+* **Vercel**
+
+## 📂 Project Structure
+
+```text
+portfolio/
+│
+├── public/
+│
+├── src/
+│   ├── components/
+│   ├── assets/
+│   ├── App.jsx
+│   ├── main.jsx
+│   └── index.css
+│
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## ⚙️ Run Locally
+
+### 1. Clone the repository
+
+```bash
+git clone YOUR-GITHUB-REPOSITORY-URL
+```
+
+### 2. Navigate to the project
+
+```bash
+cd portfolio
+```
+
+### 3. Install dependencies
+
+```bash
+npm install
+```
+
+### 4. Start the development server
+
+```bash
+npm run dev
+```
+
+The application will run on the local development server provided by Vite.
+
+## 🏗️ Build for Production
+
+```bash
+npm run build
+```
+
+To preview the production build:
+
+```bash
+npm run preview
+```
+
+## ☁️ Deployment
+
+The portfolio is deployed using **Vercel**.
+
+**Vercel Project:**
+[Portfolio Deployment](https://vercel.com/shivkirar78-9727/portfolio/95ZEbHnKNLDUiPDojEAUZYWaVvW1)
+
+## 👨‍💻 Developer
+
+**Shivkumar Barpete**
+
+MCA Student – IIIT Bhopal
+
+Interested in:
+
+* Software Development
+* Web Development
+* Data Structures & Algorithms
+* Machine Learning
+* Artificial Intelligence
+
+## 📫 Connect With Me
+
+* GitHub: **YOUR-GITHUB-PROFILE-LINK**
+* LinkedIn: **YOUR-LINKEDIN-PROFILE-LINK**
+* Portfolio: **YOUR-LIVE-PORTFOLIO-URL**
+
+## 📜 License
+
+This project is created for personal and educational purposes.
